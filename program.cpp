@@ -15,7 +15,6 @@ cin >> liczba_druga;
 
 cout << "Wynik dodawania " << liczba_pierwsza + liczba_druga << endl;
 cout << "Wynik odejmowania " << liczba_pierwsza - liczba_druga << endl;
-cout << "Wynik mnozenia " << liczba_pierwsza * liczba_druga << endl;
 
 
 
