@@ -7,10 +7,10 @@ using namespace std;
 double liczba_pierwsza;
 double liczba_druga;
 
-cout << "Wprowadz liczbe pierwsza" << endl;
+cout << "Wprowadz wartosc pierwsza" << endl;
 cin >> liczba_pierwsza;
 
-cout << "Wprowadz liczbe druga" << endl;
+cout << "Wprowadz wartosc druga" << endl;
 cin >> liczba_druga;
 
 cout << "Wynik dodawania " << liczba_pierwsza + liczba_druga << endl;
